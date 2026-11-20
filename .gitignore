@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+PythonApplication2/
